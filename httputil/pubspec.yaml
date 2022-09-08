@@ -21,6 +21,7 @@ dependencies:
   # 加载框 https://pub.flutter-io.cn/packages/bot_toast
   bot_toast: 4.0.3
   common_utils: ^2.1.0
+  flustars: ^2.0.1
 
 dev_dependencies:
   flutter_test:
